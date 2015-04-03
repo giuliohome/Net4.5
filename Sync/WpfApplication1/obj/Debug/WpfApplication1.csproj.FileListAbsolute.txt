@@ -1,0 +1,13 @@
+C:\dev\SO\New4.5\Sync\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\dev\SO\New4.5\Sync\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\dev\SO\New4.5\Sync\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\MainWindow.baml
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\App.g.cs
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\dev\SO\New4.5\Sync\WpfApplication1\obj\Debug\WpfApplication1.pdb
